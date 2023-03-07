@@ -206,7 +206,7 @@ def log(update, context):
 
 
 help_string = '''
-XeeDrive - Upload Your File & Link in Google Drive & Telegram
+TeleMirror - Upload Your File & Link in Google Drive & Telegram
 Choose a help category:
 '''
 
